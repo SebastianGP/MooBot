@@ -3,5 +3,4 @@ functions.js
 node_modules/
 audio/
 .vscode/
-procfile
 .ds_store
