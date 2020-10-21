@@ -48,7 +48,7 @@ client.on('message', async message => {
 				break;
 			// Help
 			case argSelect.toLowerCase() === 'help':
-				message.channel.send(' ```AVAILABLE COMMANDS: \n 🔶feld\n 🔷baba\n 🔶nyan\n 🔷diavolo\n 🔶stfu\n 🔷fade\n```');
+				message.channel.send(' ```AVAILABLE COMMANDS: \n COMMANDS HERE```');
 				break;
 			// Invalid command
 			default:
